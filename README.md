@@ -5,13 +5,16 @@ Ciara Ugas-Moy
 ccu3
 IS 117-102
 ----------------------------
-Directions on Using Webstorm
+Directions on Using Webstorm:
+
 https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_open_project
 ----------------------------
-How to Use Git
+How to Use Git:
+
 https://www.atlassian.com/git
 ----------------------------
-How to Use Github
+How to Use Github:
+
 Creating a repository:
 1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
 2. Drop-down with option to create a new repository
