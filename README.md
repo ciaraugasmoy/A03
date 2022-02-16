@@ -42,7 +42,9 @@ https://docs.github.com/en/get-started/quickstart/hello-world#merging-your-pull-
 ----------------------------
 Glossary
 
-Branch - Clone - A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.
+Branch - A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches
+
+Clone - A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.
 
 Commit - A commit, or "revision", is an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when. Commits usually contain a commit message which is a brief description of what changes were made.
 
@@ -72,3 +74,5 @@ https://docs.github.com/en/get-started/quickstart/github-glossary
 https://docs.github.com/en/get-started/quickstart/hello-world
 
 https://www.atlassian.com/git
+
+https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/
